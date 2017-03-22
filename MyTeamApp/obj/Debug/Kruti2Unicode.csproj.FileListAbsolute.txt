@@ -1,0 +1,3 @@
+C:\Users\Arpit\Downloads\fb\ExcelUsingCSharp_demo\Kruti2Unicode\MyTeamApp\obj\Debug\Kruti2Unicode.csproj.ResolveComReference.cache
+C:\Users\Arpit\Downloads\fb\ExcelUsingCSharp_demo\Kruti2Unicode\MyTeamApp\obj\Debug\MyTeamApp.exe
+C:\Users\Arpit\Downloads\fb\ExcelUsingCSharp_demo\Kruti2Unicode\MyTeamApp\obj\Debug\MyTeamApp.pdb
